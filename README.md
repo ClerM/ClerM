@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClerM
 - 👀 I’m interested in 摆烂
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning c/c++ and python
 
 
 <!---
