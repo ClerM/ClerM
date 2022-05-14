@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ClerM
-- 👀 I’m interested in 摆烂
-- 🌱 I’m currently learning c/c++ and python
-
+Hello World
 
 <!---
 ClerM/ClerM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
